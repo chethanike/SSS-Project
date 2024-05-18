@@ -1,0 +1,8 @@
+/* App.css */
+.App {
+  height: 100vh;
+  background: linear-gradient(to right, #ff7e5f, #feb47b);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
